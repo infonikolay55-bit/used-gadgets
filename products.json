@@ -1,0 +1,41 @@
+[
+  {
+    "id": "example-anker-20w-usb-c-charger",
+    "title": "EXAMPLE - Anker 20W USB-C Fast Charger",
+    "brand": "Anker",
+    "category": "Chargers & Cables",
+    "condition": "Like New",
+    "price_mmk": 25000,
+    "description": "EXAMPLE ITEM (not for sale). 20W USB-C PD wall charger, works with iPhone and Android fast charging. Tested, no scratches. Original box not included.",
+    "photos": ["images/example-charger.svg"],
+    "status": "example",
+    "date_added": "2026-10-23",
+    "example": true
+  },
+  {
+    "id": "example-logitech-m185-wireless-mouse",
+    "title": "EXAMPLE - Logitech M185 Wireless Mouse",
+    "brand": "Logitech",
+    "category": "Keyboards & Mice",
+    "condition": "Good",
+    "price_mmk": 18000,
+    "description": "EXAMPLE ITEM (not for sale). Wireless mouse with USB nano receiver. All buttons and scroll wheel work. Light wear on the top shell.",
+    "photos": ["images/example-mouse.svg"],
+    "status": "example",
+    "date_added": "2026-10-23",
+    "example": true
+  },
+  {
+    "id": "example-samsung-870-evo-500gb-ssd",
+    "title": "EXAMPLE - Samsung 870 EVO 500GB SATA SSD",
+    "brand": "Samsung",
+    "category": "Storage & Laptop Parts",
+    "condition": "Fair",
+    "price_mmk": 55000,
+    "description": "EXAMPLE ITEM (not for sale). 2.5-inch SATA SSD, health 92% in CrystalDiskInfo, wiped and ready. Sticker scuffed.",
+    "photos": ["images/example-ssd.svg"],
+    "status": "example",
+    "date_added": "2026-10-23",
+    "example": true
+  }
+]

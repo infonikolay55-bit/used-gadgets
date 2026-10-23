@@ -1,0 +1,16 @@
+{
+  "shop_name": "Shwe Gadget 2nd",
+  "shop_name_my": "ရွှေ Gadget တစ်ပတ်ရစ်",
+  "tagline": "Checked second-hand IT accessories & gadgets in Myanmar",
+  "tagline_my": "စစ်ဆေးပြီး တစ်ပတ်ရစ် IT ပစ္စည်းများ",
+  "base_url": "https://TODO-your-site-url.example",
+  "telegram_url": "https://t.me/TODO_TELEGRAM_HANDLE",
+  "viber_phone": "+959000000000",
+  "phone_display": "TODO: 09-xxx-xxx-xxx",
+  "delivery_area": "TODO: Yangon (confirm delivery area)",
+  "payment_note": "Cash on delivery or KPay transfer",
+  "payment_note_my": "ပစ္စည်းရောက်ငွေချေ သို့မဟုတ် KPay ဖြင့် ငွေလွှဲ",
+  "locale": "en",
+  "country": "MM",
+  "city": "Yangon"
+}

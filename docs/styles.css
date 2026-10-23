@@ -1,0 +1,18 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Noto Sans Myanmar","Padauk",sans-serif;color:#111;background:#f6f7f9;line-height:1.5}
+a{color:#0b5bd3}.my{font-size:.85em;color:#555}
+.top{display:flex;justify-content:space-between;align-items:center;padding:.7rem 1rem;background:#111;color:#fff;position:sticky;top:0;z-index:5}
+.brand{color:#fff;text-decoration:none;font-weight:700;font-size:1.15rem;display:flex;flex-direction:column}.brand .my{color:#ddd;font-weight:400}
+main{max-width:1100px;margin:auto;padding:1rem}
+.hero h1{font-size:1.35rem;margin:.3rem 0}.hero p{margin:.2rem 0}
+.filters{display:flex;gap:.4rem;overflow-x:auto;padding:.6rem 0}.filters button{border:1px solid #ccc;background:#fff;border-radius:999px;padding:.35rem .8rem;white-space:nowrap;cursor:pointer;font:inherit;font-size:.85rem}.filters button.on{background:#111;color:#fff}.filters button.on .my{color:#ddd}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:.8rem}@media(min-width:700px){.grid{grid-template-columns:repeat(auto-fill,minmax(230px,1fr))}}
+.card{background:#fff;border-radius:12px;overflow:hidden;text-decoration:none;color:inherit;box-shadow:0 1px 3px #0002}.card img{width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;display:block}
+.c-body{padding:.6rem}.card h2{font-size:.95rem;margin:.3rem 0}.meta{margin:0;font-size:.8rem;color:#444}.price{font-weight:700;color:#c2410c;margin:.3rem 0 0}.price.big{font-size:1.5rem}
+.badge{display:inline-block;font-size:.7rem;font-weight:700;padding:.1rem .5rem;border-radius:6px}.badge.ok{background:#dcfce7;color:#166534}.badge.sold{background:#fee2e2;color:#991b1b}.badge.ex{background:#fef3c7;color:#92400e}
+.item{display:grid;gap:1rem;background:#fff;border-radius:12px;padding:1rem}@media(min-width:800px){.item{grid-template-columns:1fr 1fr}}
+.gallery img{width:100%;height:auto;border-radius:8px;margin-bottom:.5rem}
+.specs{width:100%;border-collapse:collapse;font-size:.9rem}.specs th,.specs td{text-align:left;padding:.4rem;border-bottom:1px solid #eee;vertical-align:top}.specs th{width:40%}
+.buy{display:grid;grid-template-columns:1fr 1fr 1fr;gap:.5rem;margin:1rem 0}
+.btn{display:block;text-align:center;padding:.7rem .4rem;border-radius:10px;color:#fff;text-decoration:none;font-weight:600}.btn .my{color:#eef}.btn.tg{background:#229ed9}.btn.vb{background:#7360f2}.btn.ph{background:#16a34a}.btn.small{padding:.35rem .8rem;font-size:.85rem}
+.soldnote{background:#fee2e2;padding:.6rem;border-radius:8px}
+footer{max-width:1100px;margin:2rem auto 0;padding:1rem;border-top:1px solid #ddd;font-size:.9rem}footer .small{color:#777;font-size:.8rem}
