@@ -2,9 +2,9 @@
 
 > Checked second-hand IT accessories & gadgets in Myanmar. A small second-hand shop in Yangon, Myanmar selling used IT accessories and gadgets (phone accessories, chargers, cables, earbuds, keyboards, mice, SSDs, laptop parts). All prices are in Myanmar Kyat (MMK). Each item is a single used unit with a condition grade: Like New, Good, or Fair.
 
-- How to buy: message on Telegram (https://t.me/TODO_TELEGRAM_HANDLE) or Viber/phone (TODO: 09-xxx-xxx-xxx) with the item link.
+- How to buy: message on Telegram (https://t.me/shwedigital4mm) or Viber/phone (09-776-767-675) with the item link.
 - Payment: Cash on delivery or KPay transfer. No online card checkout.
-- Delivery area: TODO: Yangon (confirm delivery area)
+- Delivery area: Yangon only
 - Machine-readable data: [products.json](https://TODO-your-site-url.example/products.json) (all items, prices, status), [Atom feed](https://TODO-your-site-url.example/feed.xml), [sitemap](https://TODO-your-site-url.example/sitemap.xml). Every item page has schema.org Product/Offer JSON-LD.
 
 ## Items for sale
