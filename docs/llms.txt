@@ -5,7 +5,7 @@
 - How to buy: message on Telegram (https://t.me/shwedigital4mm) or Viber/phone (09-776-767-675) with the item link.
 - Payment: Cash on delivery or KPay transfer. No online card checkout.
 - Delivery area: Yangon only
-- Machine-readable data: [products.json](https://TODO-your-site-url.example/products.json) (all items, prices, status), [Atom feed](https://TODO-your-site-url.example/feed.xml), [sitemap](https://TODO-your-site-url.example/sitemap.xml). Every item page has schema.org Product/Offer JSON-LD.
+- Machine-readable data: [products.json](https://infonikolay55-bit.github.io/used-gadgets/products.json) (all items, prices, status), [Atom feed](https://infonikolay55-bit.github.io/used-gadgets/feed.xml), [sitemap](https://infonikolay55-bit.github.io/used-gadgets/sitemap.xml). Every item page has schema.org Product/Offer JSON-LD.
 
 ## Items for sale
 - (no items listed yet)

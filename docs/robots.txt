@@ -58,4 +58,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://TODO-your-site-url.example/sitemap.xml
+Sitemap: https://infonikolay55-bit.github.io/used-gadgets/sitemap.xml
