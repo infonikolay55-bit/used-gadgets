@@ -1,41 +1,17 @@
 [
   {
-    "id": "example-anker-20w-usb-c-charger",
-    "title": "EXAMPLE - Anker 20W USB-C Fast Charger",
-    "brand": "Anker",
-    "category": "Chargers & Cables",
+    "id": "xiaomi-50w-wireless-car-charger-mdy-17-ez",
+    "title": "Xiaomi 50W Wireless Car Charger Kit (MDY-17-EZ) Auto-Clamp Holder",
+    "brand": "Xiaomi",
+    "category": "Phone Accessories",
     "condition": "Like New",
-    "price_mmk": 25000,
-    "description": "EXAMPLE ITEM (not for sale). 20W USB-C PD wall charger, works with iPhone and Android fast charging. Tested, no scratches. Original box not included.",
-    "photos": ["images/example-charger.svg"],
-    "status": "example",
-    "date_added": "2026-10-23",
-    "example": true
-  },
-  {
-    "id": "example-logitech-m185-wireless-mouse",
-    "title": "EXAMPLE - Logitech M185 Wireless Mouse",
-    "brand": "Logitech",
-    "category": "Keyboards & Mice",
-    "condition": "Good",
-    "price_mmk": 18000,
-    "description": "EXAMPLE ITEM (not for sale). Wireless mouse with USB nano receiver. All buttons and scroll wheel work. Light wear on the top shell.",
-    "photos": ["images/example-mouse.svg"],
-    "status": "example",
-    "date_added": "2026-10-23",
-    "example": true
-  },
-  {
-    "id": "example-samsung-870-evo-500gb-ssd",
-    "title": "EXAMPLE - Samsung 870 EVO 500GB SATA SSD",
-    "brand": "Samsung",
-    "category": "Storage & Laptop Parts",
-    "condition": "Fair",
-    "price_mmk": 55000,
-    "description": "EXAMPLE ITEM (not for sale). 2.5-inch SATA SSD, health 92% in CrystalDiskInfo, wiped and ready. Sticker scuffed.",
-    "photos": ["images/example-ssd.svg"],
-    "status": "example",
-    "date_added": "2026-10-23",
-    "example": true
+    "price_mmk": 200000,
+    "description": "Genuine Xiaomi 50W wireless car charger kit (China version). Box opened (unboxed) only – never really used, everything new and complete. Selling because it is too small for my Pro Max-size phone.\n\nဗူးဖောက်ရုံသာ၊ မသုံးရသေးတဲ့ စစ်မှန်တဲ့ Xiaomi 50W ကားသုံး ကြိုးမဲ့အားသွင်း ဖုန်းကိုင်ပါ။\nXiaomi ဖုန်း (50W ရတဲ့မော်ဒယ်) ဆို 50W အမြန်အားသွင်းရပါတယ်။ iPhone/Samsung က ပုံမှန်နှုန်းနဲ့ အားသွင်းပါတယ်။\n\nIn the box: charger/holder, car adapter (12–24V, cable attached), stick-on base, 2 air-vent mounts, silicone spacer pad, manual.\n\nSpecs:\n• Model: MDY-17-EZ (launched Sept 2024)\n• Output: 50W max wireless\n• Input: DC 12–24V or USB-C 5–20V 3.25A\n• Car adapter: 12–24V in (car or truck), 1.5m DC cable, extra USB-A port 5V 2A\n• Motorized auto-clamp with infrared sensor + touch keys; clamps still open for ~30 min after power-off\n• Built-in cooling fan, blue ring light\n• Size ~116 × 72 mm, ~164 g\n• Phone case: non-metal, 4 mm thick or less\n\nNotes: full 50W only on supported Xiaomi phones (e.g. Xiaomi Ultra / Pro series). iPhone, Samsung and other Qi phones charge at normal wireless speed. May not fit very large phones like Pro Max. Manual is in Chinese.\n\nPhoto 1 is the actual item. Photo 2 is an illustration – not actual item photo.",
+    "photos": [
+      "images/xiaomi-50w-wireless-car-charger-mdy-17-ez.jpg",
+      "images/xiaomi-50w-wireless-car-charger-mdy-17-ez-2.jpg"
+    ],
+    "status": "available",
+    "date_added": "2026-10-31"
   }
 ]

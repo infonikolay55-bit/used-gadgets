@@ -16,3 +16,5 @@ main{max-width:1100px;margin:auto;padding:1rem}
 .btn{display:block;text-align:center;padding:.7rem .4rem;border-radius:10px;color:#fff;text-decoration:none;font-weight:600}.btn .my{color:#eef}.btn.tg{background:#229ed9}.btn.vb{background:#7360f2}.btn.ph{background:#16a34a}.btn.small{padding:.35rem .8rem;font-size:.85rem}
 .soldnote{background:#fee2e2;padding:.6rem;border-radius:8px}
 footer{max-width:1100px;margin:2rem auto 0;padding:1rem;border-top:1px solid #ddd;font-size:.9rem}footer .small{color:#777;font-size:.8rem}
+
+.item .desc{white-space:pre-line}

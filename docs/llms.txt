@@ -2,13 +2,13 @@
 
 > Checked second-hand IT accessories & gadgets in Myanmar. A small second-hand shop in Yangon, Myanmar selling used IT accessories and gadgets (phone accessories, chargers, cables, earbuds, keyboards, mice, SSDs, laptop parts). All prices are in Myanmar Kyat (MMK). Each item is a single used unit with a condition grade: Like New, Good, or Fair.
 
-- How to buy: message on Telegram (https://t.me/shwedigital4mm) or Viber/phone (09-776-767-675) with the item link.
+- How to buy: message on Telegram (https://t.me/shwedigital4mm) or Viber/phone (09-672-036-736) with the item link.
 - Payment: Cash on delivery or KPay transfer. No online card checkout.
 - Delivery area: Yangon only
 - Machine-readable data: [products.json](https://infonikolay55-bit.github.io/used-gadgets/products.json) (all items, prices, status), [Atom feed](https://infonikolay55-bit.github.io/used-gadgets/feed.xml), [sitemap](https://infonikolay55-bit.github.io/used-gadgets/sitemap.xml). Every item page has schema.org Product/Offer JSON-LD.
 
 ## Items for sale
-- (no items listed yet)
+- [Xiaomi 50W Wireless Car Charger Kit (MDY-17-EZ) Auto-Clamp Holder](https://infonikolay55-bit.github.io/used-gadgets/item/xiaomi-50w-wireless-car-charger-mdy-17-ez/): 200,000 MMK, used – Like New, Xiaomi, Phone Accessories
 
 ## Recently sold
 - (none)
